@@ -1,0 +1,22 @@
+{
+  "name": "rinha-de-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/compress": "^7.0.0",
+    "fastify": "^4.26.0",
+    "fastify-compress": "^4.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+  }
+}
